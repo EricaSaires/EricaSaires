@@ -23,7 +23,7 @@
 
 #
 
-# <center> Tecnologias que mais utilizo: </center>
+# <center> Tecnologias mais utilizadas: </center>
 <center>
  <div>
   <img src="./icons/icons8-html-5.svg">
