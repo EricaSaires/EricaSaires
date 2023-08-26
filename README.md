@@ -9,7 +9,7 @@
 - Estou cursando Análise e Desenvolvimento de sistemas.
 - Estudo Programação Front-End & Back-End.
 - Tenho bastante conhecimento em MySQL.
-- Estou buscando me aprofundar em Segurança Cibernética.
+- Estou buscando me aprofundar no sistema operacional Linux.
 
 ## <center> Eles me definem na Programação: </center>
 
